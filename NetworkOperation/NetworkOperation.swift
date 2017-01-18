@@ -6,6 +6,8 @@
 //  Copyright © 2016 Alasdair Law. All rights reserved.
 //
 
+import Foundation
+
 /**
     NSOperation subclass which performs a network request.
  */

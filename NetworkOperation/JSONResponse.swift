@@ -6,6 +6,8 @@
 //  Copyright © 2016 Alasdair Law. All rights reserved.
 //
 
+import Foundation
+
 public struct JSONResponse: NetworkResponse {
     public typealias T = Any
     
